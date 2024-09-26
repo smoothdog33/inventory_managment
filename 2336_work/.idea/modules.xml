@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD:2336_work/.idea/modules.xml
       <module fileurl="file://$PROJECT_DIR$/2336_work.iml" filepath="$PROJECT_DIR$/2336_work.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/target_project.iml" filepath="$PROJECT_DIR$/target_project.iml" />
+>>>>>>> 78598f0 (second commit):.idea/modules.xml
     </modules>
   </component>
 </project>
